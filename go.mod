@@ -1,4 +1,4 @@
-module storage
+module github.com/Gvinston/storage
 
 go 1.21.4
 
